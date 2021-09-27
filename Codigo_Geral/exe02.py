@@ -1,4 +1,6 @@
 
+# Print com {Variaveis} usando o f para formatar saída
+
 print ('**' * 18)
 print ('**** Bem Vindo ao Meu Programa ****')
 
