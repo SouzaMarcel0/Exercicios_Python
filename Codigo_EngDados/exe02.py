@@ -14,7 +14,7 @@
 11. No arquivo de SETTINGS.py você irá alterar os seguintes parametros:
     a) ROBOTSTXT_OBEY = True Mude para False
     b) USER_AGENT = Tire o # e insira o seu (no google, pesquise: My user agent)
-    c) AUTOTHROTTLE_ENABLED = True - Retire o #, pois irá ajudar no acesso à página, não forçando a qte de requisições.
+    c) AUTOTHROTTLE_ENABLED = True - Retirar o #, pois irá ajudar no acesso à página, não forçando a qte de requisições.
     d) Ative o programa com o comando: scrapy crawl ml -o nomedoqrquivo.json
     e) Virique se está tudo ok e aguarde, ele vai gerar um JSON, que você poderá consumir...
 """
