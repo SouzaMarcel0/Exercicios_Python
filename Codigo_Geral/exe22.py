@@ -1,24 +1,9 @@
 
-
 print ('**' * 18)
-print ('**** Bem Vindo ao Meu Programa ****\n')
+print ('**** Bem Vindo ao Meu Programa ****')
 
-valor = float(input('Qual o valor do produto?  '))
+#OBS: Na Função range (INICIO, FIM, SALTO), você sempre usa um número a mais do que vc pretende usar, pois
+#o valor FIM é sempre N-1. 
 
-ask_desc = input('Esse produto terá algum desconto [s/n]')
-ask_acre = input('Esse produto terá algum acresimo [s/n]')
-
-perc_desc = float(input('Digite o percentual %: '),
-
-perc_adic = float(input('Digite o percentual %: ')
-
-valor_prod_desc = valor * perc_desc / 100
-valor_prod_acres = valor + (valor * perc_adic / 100),
-valor_sem_alt = valor
-
-if ask_desc = 's'
-class ask_desc
-
-
-    
-
+for n in range(0,21,2):
+    print(n)
