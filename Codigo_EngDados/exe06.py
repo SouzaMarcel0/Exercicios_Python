@@ -1,0 +1,10 @@
+
+Criar script - Exercicios Python
+
+
+
+
+
+
+
+
